@@ -24,37 +24,48 @@
 <hr/>
 
 <p align="left">
-  <img
-    src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-    width="8"
-    height="8"
-  />
+  <a
+    href="https://linkedin.com/in/victor-silva-costa"
+    target="_blank"
+  >
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      width="8"
+      height="8"
+    />
 
-  <a href="https://linkedin.com/in/victor-silva-costa" target="blank">
     Connect with me
   </a>
 
   <br/>
 
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"
-    width="8"
-    height="8"
-  />
-
-  <a href="https://instagram.com/victors7p" target="blank">
+  <a
+    href="https://instagram.com/victors7p"
+    target="_blank"
+  >
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"
+      width="8"
+      height="8"
+    />
+    
     Follow me
   </a>
 
   <br/>
 
-  <img
-    src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png"
-    width="10"
-    height="8"
-  />
+  <a
+    href="mailto:victorsilva7p@gmail.com"
+    target="_blank"
+  >
+    <img
+      src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png"
+      width="10"
+      height="8"
+    />
 
-  <a href="mailto:victorsilva7p@gmail.com" target="blank">Mail me</a>
+    Mail me
+  </a>
 </p>
 
 <hr/>
